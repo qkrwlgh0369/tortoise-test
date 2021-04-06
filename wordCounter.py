@@ -1,7 +1,5 @@
 import sys
 
-print("사용방법 : [파일이름] [찾고싶은 단어]") 
-
 # 첫 번째 인자로는 파일 이름, 두 번째 인자로는 찾을 단어를 입력받는다.
 file_name =  sys.argv[1]
 word = sys.argv[2]
