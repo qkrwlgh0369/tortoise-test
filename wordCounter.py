@@ -11,4 +11,4 @@ with open(file_name, 'rt', encoding='UTF8') as file:
     x = file.read()
 
 # 단어가 몇 번  나오는지 세고 출력한다.
-print(x.count(word)+"번")
+print(x.count(word)+"번 나옵니다.")
